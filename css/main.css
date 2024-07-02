@@ -131,3 +131,72 @@ body {
     margin-bottom: 0;
     font-family: "Oswald";
 }
+
+.heropotencia-content {
+    position: relative;
+    width: 100%;
+}
+
+.heropotencia-content img {
+    width: 100%;
+    
+    display: block;
+    background-size: cover;
+}
+
+.heropotencia-text {
+    position: absolute;
+    top: 50%; 
+    right: 20px; 
+    transform: translateY(-50%); 
+    padding: 20px;
+    max-width: 30%;
+    font-family: "Oswald";
+    color: white;
+}
+
+.heropotencia-text h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    font-family: "Oswald";
+    height: 15vh;
+}
+
+.heropotencia-text p {
+    margin-bottom: 0;
+    font-family: "Oswald";
+}
+
+.valorpower {
+    position: relative;
+    width: 100%;
+}
+
+.valorpower img {
+    width: 100%;
+    
+    display: block;
+    background-size: cover;
+}
+
+.textosobreimagen1 {
+    position: absolute;
+    top: 50%; 
+    right: 20px; 
+    transform: translateY(-50%); 
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    max-width: 30%;
+    font-family: "Oswald";
+}
+
+.textosobreimagen1 h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    font-family: "Oswald";
+}
+
+.textosobreimagen1 p {
+    margin-bottom: 0;
+    font-family: "Oswald";
+}
