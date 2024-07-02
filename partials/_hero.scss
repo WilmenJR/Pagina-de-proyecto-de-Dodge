@@ -1,0 +1,175 @@
+.hero {
+    background-image: url(../img/imagenprincipalinicio.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.valorpower {
+    position: relative;
+    width: 100%;
+
+    img {
+        width: 100%;
+          
+        display: block;
+        background-size: cover;
+    }
+
+    .textosobreimagen1 {
+        position: absolute;
+        top: 50%;
+        right: 20px;
+        transform: translateY(-50%);
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 20px;
+        max-width: 30%;
+        font-family: "Oswald";
+
+        h2 {
+            margin-top: 0;
+            font-size: 1.5em;
+            font-family: "Oswald";
+        }
+
+        p {
+            margin-bottom: 0;
+            font-family: "Oswald";
+        }
+    }
+}
+
+.vehiculos2 {
+    position: relative;
+    width: 100%;
+
+    img {
+        width: 100%;
+        
+        display: block;
+        background-size: cover;
+    }
+
+    .textosobreimagen {
+        position: absolute;
+        top: 50%; 
+        right: 20px; 
+        transform: translateY(-50%); 
+        background-color: rgba(255, 255, 255, 0.8); 
+        padding: 20px;
+        max-width: 30%;
+        font-family: "Oswald";
+
+        h2 {
+            margin-top: 0;
+            font-size: 1.5em;
+            font-family: "Oswald";
+        }
+
+        p {
+            margin-bottom: 0;
+            font-family: "Oswald";
+        }
+    }
+}
+
+.vehiculos3 {
+    position: relative;
+    width: 100%;
+
+    img {
+        width: 100%;
+        display: block;
+        background-size: cover;
+    }
+
+    .textosobreimagen3 {
+        position: absolute;
+        top: 50%; 
+        left: 20px; 
+        transform: translateY(-50%); 
+        background-color: rgba(255, 255, 255, 0.8); 
+        padding: 20px;
+        max-width: 30%;
+        font-family: "Oswald";
+
+        h2 {
+            margin-top: 0;
+            font-size: 1.5em;
+            font-family: "Oswald";
+        }
+
+        p {
+            margin-bottom: 0;
+            font-family: "Oswald";
+        }
+    }
+}
+
+.vehiculos4 {
+    position: relative;
+    width: 100%;
+
+    img {
+        width: 100%;
+        
+        display: block;
+        background-size: cover;
+    }
+
+    .textosobreimagen4 {
+        position: absolute;
+        top: 50%; 
+        left: 20px; 
+        transform: translateY(-50%); 
+        background-color: rgba(255, 255, 255, 0.8); 
+        padding: 20px;
+        max-width: 30%;
+        font-family: "Oswald";
+
+        h2 {
+            margin-top: 0;
+            font-size: 1.5em;
+            font-family: "Oswald";
+        }
+
+        p {
+            margin-bottom: 0;
+            font-family: "Oswald";
+        }
+    }
+}
+
+.heropotencia-content {
+    position: relative;
+    width: 100%;
+
+    img {
+        width: 100%;
+        
+        display: block;
+        background-size: cover;
+    }
+
+    .heropotencia-text {
+        position: absolute;
+        top: 50%; 
+        right: 20px; 
+        transform: translateY(-50%); 
+        padding: 20px;
+        max-width: 30%;
+        font-family: "Oswald";
+        color: white;
+
+        h2 {
+            margin-top: 0;
+            font-size: 1.5em;
+            font-family: "Oswald";
+            height: 15vh;
+        }
+
+        p {
+            margin-bottom: 0;
+            font-family: "Oswald";
+        }
+    }
+}
