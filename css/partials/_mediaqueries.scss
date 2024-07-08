@@ -90,6 +90,12 @@
     }
 }
 
+@media(max-width:507px) {
+    .columna-2 {
+        font-size: 13px;
+    }
+}
+
 @media(max-width:487px) {
     .heropotencia-text {
         font-size: 5px;
@@ -113,6 +119,12 @@
 
     .textosobreimagen {
         font-size: 6px;
+    }
+}
+
+@media(max-width:439px) {
+    .columna-2 {
+        font-size: 9px;
     }
 }
 

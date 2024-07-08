@@ -158,7 +158,7 @@
             margin-top: 0;
             font-size: 1.5em;
             font-family: "Oswald";
-            height: 6vh;
+            height: 10vh;
         }
 
         p {
@@ -167,3 +167,23 @@
         }
     }
 }
+
+.contenedorc {
+    display: flex;
+    color: white;
+    height: 40vh;
+    align-items: center;
+
+    .columna-1 {
+        padding: 25px;
+        margin: 0 10px;
+        text-align: center;
+    }
+    
+    .columna-2 {
+        padding: 25px;
+        margin: 0 10px;
+        text-align: center;
+    }
+}
+
